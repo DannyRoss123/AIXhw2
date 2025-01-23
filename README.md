@@ -56,18 +56,8 @@ Based on logistic regression results:
 - Consider contract incentives
 - Monitor service quality, especially fiber optic
 
-## Requirements
-- Python 3.x
-- pandas
-- numpy
-- scikit-learn
-- pygam
-- seaborn
-- matplotlib
 
 ## Repository Structure
 - `Telco_Churn_Analysis.ipynb`: Main analysis notebook
 - `README.md`: Project documentation
-- Dataset: Must be uploaded during runtime
 
-[GitHub Repository Link]
